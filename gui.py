@@ -212,5 +212,3 @@ create_main_window()
     
 # Aquí agregarías el código para insertar en la base de datos
 # print(f"Paciente agregado: {name}, {date}, {age}, {dni}, {marital}, {person}, {phone}, {allergis}, {medic}, {diagnostic}")
-
-#Prueba de modificacion y guardar en prueba raiz utilizando git checkout -b nombreDeRama y haciendo el commit
