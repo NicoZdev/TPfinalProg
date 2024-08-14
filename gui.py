@@ -209,6 +209,3 @@ def delete_patient(patient_table):
 
 # Ejecutar la aplicación
 create_main_window()
-    
-# Aquí agregarías el código para insertar en la base de datos
-# print(f"Paciente agregado: {name}, {date}, {age}, {dni}, {marital}, {person}, {phone}, {allergis}, {medic}, {diagnostic}")
